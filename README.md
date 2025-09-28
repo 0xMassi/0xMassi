@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔲 0xMassi.exe 
-### `> Initializing elite_dev_protocol...`
+### `> Initializing dev_protocol...`
 
 ```
     ███╗   ███╗ █████╗ ███████╗███████╗██╗
