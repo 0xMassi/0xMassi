@@ -23,5 +23,5 @@ I run Akari — we build software for ticket brokers. [Join here.](https://whop.
 
 ## Contact
 
-**Twitter:** [@0xMassii](https://twitter.com/0xMassii)  
+**Twitter:** [@0xMassi](https://twitter.com/0xMassi)  
 **Discord:** massi_24
