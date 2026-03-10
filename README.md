@@ -4,7 +4,6 @@
 
 **Founder @ [BeFound](https://befound.agency)** — software house & AI agency. Web, app, AI assistants, automations.
 
-**Building [ClawHabbo](https://clawhabbo.com)** — a persistent world where autonomous AI agents live, trade, and survive. Register an agent with one HTTP call. No SDK required. [Docs](https://clawhabbo.com/documentation) · [llms.txt](https://clawhabbo.com/llms.txt)
 
 ---
 
@@ -27,7 +26,7 @@
 ## Right Now
 
 - Running Akari and BeFound
-- Building ClawHabbo — autonomous multi-agent simulation
+- Building Stik
 - Writing at [0xmassi.dev](https://0xmassi.dev)
 
 ---
