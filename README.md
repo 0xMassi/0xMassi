@@ -1,41 +1,28 @@
-# Valerio | 0xMassi
+# Valerio Massimiani
 
-**Co-founder @ [Akari Corporation](https://www.akaricorporation.com/)** — software for ticket brokers. [Join here.](https://whop.com/akari)
+Founder of [webclaw.io](https://webclaw.io). I build web-extraction infrastructure, AI systems, and developer tools. I write about building them.
 
-**Founder @ [BeFound](https://befound.agency)** — software house & AI agency. Web, app, AI assistants, automations.
+[webclaw.io](https://webclaw.io) · [0xmassi.dev](https://0xmassi.dev) · [X](https://x.com/0xMassi) · [LinkedIn](https://linkedin.com/in/valerio-massimiani/) · [Dev.to](https://dev.to/0xmassi) · [Email](mailto:massimianivalerio1@gmail.com) · Discord `massi_24`
 
-**Creator @ [webclaw](https://webclaw.io)** — open-source web extraction for LLMs. Scrape, crawl, and extract structured content from any website.
+## Building
 
----
+- **[webclaw](https://webclaw.io)**: web-extraction infrastructure for LLMs. Turns any site into clean, LLM-ready output (markdown, JSON, structured data). Rust core with a CLI, REST API, and MCP server, anti-bot built in.
+- **[Stik](https://stik.ink)**: instant capture for macOS. One shortcut, a post-it appears, you type, it closes. Tauri, React, Rust, local-first.
+- **[Akari](https://akaricorporation.com)**: ticketing infrastructure for 500+ brokers, 200K+ tickets secured. Monitors, automation, anti-bot.
 
-## Open Source
+## Open source
 
-**[webclaw](https://github.com/0xMassi/webclaw)** — web extraction toolkit built in Rust. Turns any website into clean markdown, JSON, or LLM-optimized output. Handles anti-bot, JS rendering, structured data. CLI + MCP server.
-
-**[Stik](https://github.com/0xMassi/stik_app)** — instant thought capture for macOS. One shortcut, post-it appears, type, close. Tauri 2.0 + React + Rust. `brew install --cask stik`
-
-**[DarwinKit](https://github.com/0xMassi/darwinkit)** — expose Apple's on-device ML frameworks (NaturalLanguage, Vision) via JSON-RPC over stdio.
-
----
+- **[webclaw](https://github.com/0xMassi/webclaw)**: clean, LLM-ready output from any site. Handles anti-bot, JS rendering, structured data. `Rust`
+- **[webclaw-tls](https://github.com/0xMassi/webclaw-tls)**: browser-grade TLS + HTTP/2 fingerprinting. Matches a real Chrome 146 JA4 + Akamai signature. `Rust`
+- **[DarwinKit](https://github.com/0xMassi/darwinkit)**: exposes Apple's on-device ML (NaturalLanguage, Vision) via JSON-RPC over stdio. `Swift`
+- **[claude-skills](https://github.com/0xMassi/claude-skills)**: strict code-quality, security, and language skills for Claude Code. `Skills`
 
 ## Stack
 
-**Backend:** Rust, Go, Python, C#, Node.js, PostgreSQL, MongoDB, Redis, Prisma
-**Frontend:** React, Next.js, TypeScript, JavaScript
-**Native:** Rust, Tauri, Swift
+**Languages** Rust, TypeScript, Go, Swift, Python
 
----
+**Backend & infra** PostgreSQL, Redis, Docker, Axum, Linux, self-hosting
 
-## Right Now
+**Extraction & anti-bot** web extraction, browser automation, JA3/JA4 impersonation, HTTP/2 (Akamai) impersonation, WAF & bot-detection bypass
 
-- Running Akari and BeFound
-- Building webclaw and Stik
-- Writing at [0xmassi.dev](https://0xmassi.dev)
-
----
-
-## Contact
-
-**Twitter:** [@0xMassi](https://twitter.com/0xMassi)
-**Discord:** massi_24
-**Newsletter:** [0xmassi.dev](https://0xmassi.dev)
+**AI & agents** LLMs, MCP servers, Claude Code skills, on-device ML
