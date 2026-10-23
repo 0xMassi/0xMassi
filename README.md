@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/0xMassi.png" width="96" alt="Valerio Massimiani"></p>
-
 <h1 align="center">Valerio Massimiani</h1>
+
+<p align="center"><b>0xMassi</b></p>
 
 <p align="center">Developer turned founder. I build developer tools and web-extraction infrastructure, mostly in Rust.</p>
 
