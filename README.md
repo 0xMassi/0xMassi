@@ -1,28 +1,87 @@
-# Valerio Massimiani
+<p align="center"><img src="https://github.com/0xMassi.png" width="96" alt="Valerio Massimiani"></p>
 
-Founder of [webclaw.io](https://webclaw.io). I build web-extraction infrastructure, AI systems, and developer tools. I write about building them.
+<h1 align="center">Valerio Massimiani</h1>
 
-[webclaw.io](https://webclaw.io) · [0xmassi.dev](https://0xmassi.dev) · [X](https://x.com/0xMassi) · [LinkedIn](https://linkedin.com/in/valerio-massimiani/) · [Dev.to](https://dev.to/0xmassi) · [Email](mailto:massimianivalerio1@gmail.com) · Discord `massi_24`
+<p align="center">Developer turned founder. I build developer tools and web-extraction infrastructure, mostly in Rust.</p>
 
-## Building
+<p align="center">
+  <a href="https://0xmassi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/0xmassi.dev.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=lu:Globe"><img src="https://shieldcn.dev/badge/0xmassi.dev.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=lu:Globe" alt="0xmassi.dev"></picture></a>
+  <a href="https://x.com/0xMassi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/%400xMassi.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=x"><img src="https://shieldcn.dev/badge/%400xMassi.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=x" alt="X"></picture></a>
+  <a href="https://linkedin.com/in/valerio-massimiani/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=ri:FaLinkedin"><img src="https://shieldcn.dev/badge/LinkedIn.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=ri:FaLinkedin" alt="LinkedIn"></picture></a>
+  <a href="https://dev.to/0xmassi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Dev.to.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=devdotto"><img src="https://shieldcn.dev/badge/Dev.to.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=devdotto" alt="Dev.to"></picture></a>
+  <a href="mailto:massimianivalerio1@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Email.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=lu:Mail"><img src="https://shieldcn.dev/badge/Email.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=lu:Mail" alt="Email"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/massi__24.svg?variant=outline&amp;mode=dark&amp;font=geist&amp;logo=discord"><img src="https://shieldcn.dev/badge/massi__24.svg?variant=outline&amp;mode=light&amp;font=geist&amp;logo=discord" alt="Discord: massi_24"></picture>
+</p>
 
-- **[webclaw](https://webclaw.io)**: web-extraction infrastructure for LLMs. Turns any site into clean, LLM-ready output (markdown, JSON, structured data). Rust core with a CLI, REST API, and MCP server, anti-bot built in.
-- **[Stik](https://stik.ink)**: instant capture for macOS. One shortcut, a post-it appears, you type, it closes. Tauri, React, Rust, local-first.
-- **[Akari](https://akaricorporation.com)**: ticketing infrastructure for 500+ brokers, 200K+ tickets secured. Monitors, automation, anti-bot.
+## Products
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://webclaw.io"><img src="https://webclaw.io/apple-touch-icon.png" width="48" height="48" alt="webclaw logo"></a>
+      <h3><a href="https://webclaw.io">webclaw</a></h3>
+      Public web pages in, Markdown and structured JSON out, for your AI agents. Hosted API, CLI, MCP server, or self-host the core.
+      <br><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=rust"><img src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=rust" alt="Rust"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/MCP.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=modelcontextprotocol"><img src="https://shieldcn.dev/badge/MCP.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=modelcontextprotocol" alt="MCP"></picture>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://stik.ink"><img src="https://www.stik.ink/icon.svg" width="48" height="48" alt="Stik logo"></a>
+      <h3><a href="https://stik.ink">Stik</a></h3>
+      Press ⌘⇧S anywhere on your Mac, type into a floating note, press Escape. Stik saves each note as a Markdown file on your disk.
+      <br><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Tauri.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=tauri"><img src="https://shieldcn.dev/badge/Tauri.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=tauri" alt="Tauri"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=rust"><img src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=rust" alt="Rust"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/macOS.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=apple"><img src="https://shieldcn.dev/badge/macOS.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=apple" alt="macOS"></picture>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://akaricorporation.com"><img src="https://akaricorporation.com/apple-touch-icon.png" width="48" height="48" alt="Akari logo"></a>
+      <h3><a href="https://akaricorporation.com">Akari</a></h3>
+      <b>500+ brokers</b> · <b>£50M+ generated by members</b><br>
+      Monitors 50+ event sites, with a checkout extension and a P&amp;L dashboard.
+      <br><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Go.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=go"><img src="https://shieldcn.dev/badge/Go.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=go" alt="Go"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=typescript"><img src="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=typescript" alt="TypeScript"></picture>
+    </td>
+  </tr>
+</table>
 
 ## Open source
 
-- **[webclaw](https://github.com/0xMassi/webclaw)**: clean, LLM-ready output from any site. Handles anti-bot, JS rendering, structured data. `Rust`
-- **[webclaw-tls](https://github.com/0xMassi/webclaw-tls)**: browser-grade TLS + HTTP/2 fingerprinting. Matches a real Chrome 146 JA4 + Akamai signature. `Rust`
-- **[DarwinKit](https://github.com/0xMassi/darwinkit)**: exposes Apple's on-device ML (NaturalLanguage, Vision) via JSON-RPC over stdio. `Swift`
-- **[claude-skills](https://github.com/0xMassi/claude-skills)**: strict code-quality, security, and language skills for Claude Code. `Skills`
-
-## Stack
-
-**Languages** Rust, TypeScript, Go, Swift, Python
-
-**Backend & infra** PostgreSQL, Redis, Docker, Axum, Linux, self-hosting
-
-**Extraction & anti-bot** web extraction, browser automation, JA3/JA4 impersonation, HTTP/2 (Akamai) impersonation, WAF & bot-detection bypass
-
-**AI & agents** LLMs, MCP servers, Claude Code skills, on-device ML
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/webclaw">webclaw</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=rust"><img src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=rust" alt="Rust"></picture><br>
+      <a href="https://github.com/0xMassi/webclaw"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/webclaw.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/webclaw.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a> <a href="https://github.com/0xMassi/webclaw/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/downloads/0xMassi/webclaw.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/downloads/0xMassi/webclaw.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="Release downloads"></picture></a><br>
+      The extraction engine, plus SDKs for <a href="https://github.com/0xMassi/webclaw-js">JS</a>, <a href="https://github.com/0xMassi/webclaw-python">Python</a> and <a href="https://github.com/0xMassi/webclaw-go">Go</a>.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/stik_app">stik_app</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=typescript"><img src="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=typescript" alt="TypeScript"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=rust"><img src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=rust" alt="Rust"></picture><br>
+      <a href="https://github.com/0xMassi/stik_app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/stik_app.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/stik_app.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a> <a href="https://github.com/0xMassi/stik_app/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/downloads/0xMassi/stik_app.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/downloads/0xMassi/stik_app.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="Release downloads"></picture></a><br>
+      The Stik desktop app.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/pocketdev">pocketdev</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Go.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=go"><img src="https://shieldcn.dev/badge/Go.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=go" alt="Go"></picture><br>
+      <a href="https://github.com/0xMassi/pocketdev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/pocketdev.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/pocketdev.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a><br>
+      Your AI coding CLI on a Hetzner box locked to your Tailscale network. Code from your phone.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/google-rust-style-skill">google-rust-style-skill</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=rust"><img src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=rust" alt="Rust"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Agent%20Skill.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=lu:Sparkles"><img src="https://shieldcn.dev/badge/Agent%20Skill.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=lu:Sparkles" alt="Agent Skill"></picture><br>
+      <a href="https://github.com/0xMassi/google-rust-style-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/google-rust-style-skill.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/google-rust-style-skill.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a><br>
+      Google's Rust style guide for your agent: rustfmt and clippy config, plus 40 judgement rules.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/redditlens">redditlens</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=typescript"><img src="https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=typescript" alt="TypeScript"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Claude%20Code.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=claude"><img src="https://shieldcn.dev/badge/Claude%20Code.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=claude" alt="Claude Code"></picture><br>
+      <a href="https://github.com/0xMassi/redditlens"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/redditlens.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/redditlens.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a><br>
+      Finds real pain points on Reddit and drafts replies. CLI and Claude Code skill.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/0xMassi/darwinkit">darwinkit</a></b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Swift.svg?variant=secondary&amp;mode=dark&amp;font=geist&amp;logo=swift"><img src="https://shieldcn.dev/badge/Swift.svg?variant=secondary&amp;mode=light&amp;font=geist&amp;logo=swift" alt="Swift"></picture><br>
+      <a href="https://github.com/0xMassi/darwinkit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/0xMassi/darwinkit.svg?variant=secondary&amp;mode=dark&amp;font=geist"><img src="https://shieldcn.dev/github/stars/0xMassi/darwinkit.svg?variant=secondary&amp;mode=light&amp;font=geist" alt="GitHub stars"></picture></a><br>
+      Apple's on-device NaturalLanguage and Vision frameworks over JSON-RPC.
+    </td>
+  </tr>
+</table>
